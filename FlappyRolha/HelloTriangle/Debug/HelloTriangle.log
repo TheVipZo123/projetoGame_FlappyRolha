@@ -1,0 +1,39 @@
+﻿  Source.cpp
+  Sprite.cpp
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(112,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(113,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(113,16): warning C4244:         with
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(113,16): warning C4244:         [
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(113,16): warning C4244:             T=float
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(113,16): warning C4244:         ]
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(141,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(142,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(142,16): warning C4244:         with
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(142,16): warning C4244:         [
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(142,16): warning C4244:             T=float
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(142,16): warning C4244:         ]
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(155,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(156,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(156,16): warning C4244:         with
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(156,16): warning C4244:         [
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(156,16): warning C4244:             T=float
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(156,16): warning C4244:         ]
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(158,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(158,16): warning C4244:         with
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(158,16): warning C4244:         [
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(158,16): warning C4244:             T=float
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(158,16): warning C4244:         ]
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(194,15): warning C4305: '-=': truncation from 'double' to 'T'
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(194,15): warning C4305:         with
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(194,15): warning C4305:         [
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(194,15): warning C4305:             T=float
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(194,15): warning C4305:         ]
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(198,14): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(198,14): warning C4244:         with
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(198,14): warning C4244:         [
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(198,14): warning C4244:             T=float
+D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\HelloTriangle\Sprite.cpp(198,14): warning C4244:         ]
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  HelloTriangle.vcxproj -> D:\Programacao\Lista2\Ortho_Original\Game_FlappyRolha\FlappyRolha\Debug\HelloTriangle.exe
